@@ -339,8 +339,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Harsh Arora**
 
-- GitHub: [@HARSHARORA2812](https://github.com/HARSHARORA2812)
-- Repository: [CampusHub](https://github.com/HARSHARORA2812/CampusHub)
+- GitHub: [@kartik99Lm10]((https://github.com/kartik99Lm10))
+- Repository: [C-Hub]((https://github.com/kartik99Lm10/C-HUB))
 
 ---
 
