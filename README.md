@@ -364,7 +364,7 @@ If you have any questions or need help, please:
 
 <div align="center">
 
-Made with ❤️ by Harsh Arora
+Made with ❤️ by Kartik
 
 ⭐ Star this repository if you find it helpful!
 
